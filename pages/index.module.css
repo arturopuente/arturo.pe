@@ -6,12 +6,13 @@
 }
 
 .title {
-  font-size: 36px;
+  font-size: 39px;
+  line-height: 62px;
 }
 
 .content {
-  font-size: 18px;
-  line-height: 26px;
+  font-size: 24px;
+  line-height: 40px;
 }
 
 .link {
@@ -21,7 +22,7 @@
   padding: 10px 14px 6px;
   border-radius: 5px;
   background: hsl(52, 100%, 50%);
-  font-size: 18px;
+  font-size: 24px;
   font-weight: bold;
   transition: background-color 0.2s;
 }

@@ -10,13 +10,13 @@ export default function Home() {
       </Head>
       <h1 className={styles.title}>Hello there 👋</h1>
       <p className={styles.content}>
-        I'm Arturo, a full stack software developer based in Peru.
+        I'm Arturo, a full stack software developer based in Lima, Per&uacute;.
       </p>
       <p className={styles.content}>
         I enjoy building web applications with Rails and React.
       </p>
       <a className={styles.link} href="https://github.com/arturopuente">
-        My GitHub profile
+        My GitHub Profile
       </a>
     </div>
   );
